@@ -65,7 +65,7 @@ Unity3D
 </p>
    
 
-<h2>당시 홍보 영상</h2>
+<h2>유튜브 홍보 영상 링크</h2>
 
 [![Video Label](http://img.youtube.com/vi/P1kxqV_Yfwg/0.jpg)](https://www.youtube.com/watch?v=P1kxqV_Yfwg)
 [![Video Label](http://img.youtube.com/vi/j06lBQHTU0o/0.jpg)](https://www.youtube.com/watch?v=j06lBQHTU0o)
