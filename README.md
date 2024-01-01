@@ -37,13 +37,22 @@ Unity3D
   <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/f60708fc-0180-4973-881a-ca9f3d817ce4" width="640" height="360">
 </p>
 
-<p align="center">[리뉴얼 후]
 <br>
-  <h3>클래식 모드와 랭킹 모드 추가 작업</h3>
-  <p align="center">
-  <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/42b0d7ef-09ca-4e7a-be8e-d89a0506c576" width="640" height="360">
-   <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/4e661747-c129-43ef-b7ea-0a9bda1696d1" width="640" height="360">
-   </p>
+<h3>클래식 모드와 랭킹 모드 추가 작업</h3>
+<p align="center">[리뉴얼 후]
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/42b0d7ef-09ca-4e7a-be8e-d89a0506c576" width="640" height="360">
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/4e661747-c129-43ef-b7ea-0a9bda1696d1" width="640" height="360">
 </p>
-   <h3>랭킹 등록 시스템 추가</h3>
-  <h3>광고, 상점 시스템 추가 작업</h3>
+   
+<h3>랭킹 등록 시스템 추가</h3>
+
+<p align="center">
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/42b0d7ef-09ca-4e7a-be8e-d89a0506c576" width="640" height="360">
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/4e661747-c129-43ef-b7ea-0a9bda1696d1" width="640" height="360">
+</p>
+   
+<h3>광고, 상점 시스템 추가 작업</h3>
+
+[![Video Label](http://img.youtube.com/vi/P1kxqV_Yfwg/0.jpg)](https://www.youtube.com/watch?v=P1kxqV_Yfwg)
+
+
