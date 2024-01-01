@@ -26,7 +26,6 @@ Unity3D
 
 <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/2749c2eb-62d0-4290-96e2-a4b599570f22" height="100%">
 
-
 <h3>게임 디자인 변경 작업</h3>
 <p>기존 보자마자 Play 시즌 1과 다른 디자인으로 UI 리뉴얼를 하게 되면서 클래식 모드와 랭킹 모드가 추가되고 기존에 있던 상점 시스템 디자인이 수정되고 아이템이 추가 되었다</p>
 
@@ -39,10 +38,12 @@ Unity3D
 </p>
 
 <p align="center">[리뉴얼 후]
-    <br>
+<br>
   <h3>클래식 모드와 랭킹 모드 추가 작업</h3>
+  <p align="center">
   <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/42b0d7ef-09ca-4e7a-be8e-d89a0506c576" width="640" height="360">
    <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/4e661747-c129-43ef-b7ea-0a9bda1696d1" width="640" height="360">
+   </p>
 </p>
-    <h3>랭킹 등록 시스템 추가</h3>
+   <h3>랭킹 등록 시스템 추가</h3>
   <h3>광고, 상점 시스템 추가 작업</h3>
