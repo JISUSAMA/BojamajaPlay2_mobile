@@ -1,4 +1,4 @@
-# BojamajaPlay2_m
+[# BojamajaPlay2_m
 
 보자마자 Play2 모바일 포트폴리오
 
@@ -38,5 +38,13 @@ Unity3D
   <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/4353c296-e156-4dee-908e-a17389d4517c" width="640" height="360">
   <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/35407cb6-e79e-4a33-9990-7585242be636" width="640" height="360">
   <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/f60708fc-0180-4973-881a-ca9f3d817ce4" width="640" height="360">
-  
 </p>
+
+<p align="center">[리뉴얼 후]
+    <br>
+  <h3>클래식 모드와 랭킹 모드 추가 작업</h3>
+  <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/42b0d7ef-09ca-4e7a-be8e-d89a0506c576" width="640" height="360">
+   <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/4e661747-c129-43ef-b7ea-0a9bda1696d1" width="640" height="360">
+</p>
+    <h3>랭킹 등록 시스템 추가</h3>
+  <h3>광고, 상점 시스템 추가 작업</h3>
