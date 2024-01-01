@@ -1,6 +1,4 @@
-[# BojamajaPlay2_m
-
-보자마자 Play2 모바일 포트폴리오
+# 보자마자 Play2 모바일 포트폴리오
 
 <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/61060261-96e2-4522-8d03-71b80f9b54d2" width="100%" height="100%">
 
