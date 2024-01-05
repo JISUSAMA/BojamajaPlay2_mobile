@@ -8,6 +8,18 @@
 
 <p>
 보자마자 PLAY 2 모바일
+
+<details>
+<summary> 보자마자 Play2 인게임 이미지 </summary>
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/38304918/225186471-ada6bcce-e0bf-4c01-99f6-d2810922fb8c.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/38304918/225186482-c0c77481-0a8f-4ada-8ebe-3c92ff8d4b01.png" width="600" height="300" >
+<img src="https://user-images.githubusercontent.com/38304918/225186490-060bb3e0-7664-40db-9c0a-2f8eb7090a74.png" width="600" height="300" >
+<img src="https://user-images.githubusercontent.com/38304918/225186493-fff84767-fb0d-4b03-9f51-4404d49cd176.png" width="600" height="300">
+</p>
+</details>
+
 </p>
 
 <h2>작업 기간</h2>
@@ -26,27 +38,30 @@ Unity3D
 
 <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/2749c2eb-62d0-4290-96e2-a4b599570f22" height="100%">
 
-<h3>게임 디자인 변경 작업</h3>
+### 게임 디자인 변경 작업
 <p>기존 보자마자 Play 시즌 1과 다른 디자인으로 UI 리뉴얼를 하게 되면서 클래식 모드와 랭킹 모드가 추가되고 기존에 있던 상점 시스템 디자인이 수정되고 아이템이 추가 되었다</p>
 
-<p align="center">[리뉴얼 전]
-<br>
-  <div style='display:flex'>
-  <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/e182c3f4-1c7f-4c5c-86aa-441200c1c916" width="640" height="360">
-  <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/4353c296-e156-4dee-908e-a17389d4517c" width="640" height="360">
-  <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/35407cb6-e79e-4a33-9990-7585242be636" width="640" height="360">
-  <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/f60708fc-0180-4973-881a-ca9f3d817ce4" width="640" height="360">
-  </div>
-
-</p>
+__[리뉴얼 전]__
 
 <br>
-<h3>클래식 모드와 랭킹 모드 추가 작업</h3>
-<p align="center">[리뉴얼 후]
-  <br>
+ <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/2d0e5b67-c8ed-4322-86fa-c1a9844f9378">
+
+
+### 클래식 모드와 랭킹 모드 추가 작업</h3>
+
+__[리뉴얼 후]__
+- __클래식 모드와 랭킹 모드 UI 디자인 작업__
+
 <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/42b0d7ef-09ca-4e7a-be8e-d89a0506c576" width="640" height="360">
+
+<br>
+클래식 모드에서는 원하는 게임을 골라서 플레이 가능하고 일정 점수 이상을 획득하면 기록에 따라 획득하는 별 점을 획득 할 수 있다. 
+
 <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/4e661747-c129-43ef-b7ea-0a9bda1696d1" width="640" height="360">
 </p>
+
+
+
 
 <h3>광고, 상점 시스템 추가 작업</h3>
 
@@ -55,15 +70,14 @@ Unity3D
 </p>
 
 <h3>랭킹 등록 시스템 추가</h3>
-
-<p align="center">
-<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/40f9014f-4990-49b7-9819-61444f6ca51e" width="640" height="360">
 <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/702fbd81-0cef-4601-9bc5-7a75e32e7e8c" width="640" height="360">
-<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/f20ed62d-667c-464c-85ba-ca5bab3d07cf" width="640" height="360">
 <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/7bef9da9-467b-47f6-8eb4-974ca84f0445" width="640" height="360">
 
-</p>
-   
+
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/40f9014f-4990-49b7-9819-61444f6ca51e" width="640" height="360">
+
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/f20ed62d-667c-464c-85ba-ca5bab3d07cf" width="640" height="360">
+
 
 <h2>유튜브 홍보 영상 링크</h2>
 
