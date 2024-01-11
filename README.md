@@ -56,7 +56,7 @@ __[리뉴얼 후]__
 
 <br>
 클래식 모드에서는 원하는 게임을 골라서 플레이 가능하고 일정 점수 이상을 획득하면 기록에 따라 획득하는 별 점을 획득 할 수 있다. 
-
+<br>
 <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/db902469-808c-4c83-b6e8-d45fe78565b9" width="640" height="360">
 </p>
 
