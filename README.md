@@ -1,6 +1,4 @@
 <div align='center'>
-  
-# 보자마자 Play2 모바일 포트폴리오
 
 <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/1029c970-2843-423a-9a63-e88606b62bee" width="100%" height="100%">
 
